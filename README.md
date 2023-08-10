@@ -8,9 +8,7 @@
 
 ### :woman_technologist: О себе:
 
-Я Python-разработчик, занимаюсь написанием веб-приложний<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Интересуюсь высоко-нагруженной разработкой.
-
-- :seedling: В настоящее время я учусь и будющем тоже буду учится.
+Я Python-разработчик, занимаюсь написанием веб-приложний <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Интересуюсь высоко-нагруженной разработкой.
 
 - :telescope: Я готов расмотреть интересные предложения о работе, чтобы вносить свой вклад в backend ваших веб-приложений.
 
