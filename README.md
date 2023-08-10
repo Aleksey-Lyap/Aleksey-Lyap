@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-  Привет. Меня зовут Алексей Ляпин.
+  Привет! Меня зовут Алексей Ляпин.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
